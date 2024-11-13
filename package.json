@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-google-charts": "^5.1.0",
+    "react-router-dom": "^6.27.0"
+  }
+}
